@@ -4,6 +4,8 @@
 
 This website contains functionality of Ecommerce Website. Data comes from Fake Store API.
 
+[Online](https://react-style-hub.vercel.app/)
+
 ## Features
 
 - **Adding product to the shopping cart**
@@ -26,6 +28,43 @@ This website contains functionality of Ecommerce Website. Data comes from Fake S
 [![Formik][Formik-logo]][Formik-url] </br>
 [![Tailwindcss][Tailwindcss-logo]][Tailwindcss-url] </br>
 [![Fake-store-api][Fake-store-api-logo]][Fake-store-api-url] </br>
+
+## Installation
+
+1. Clone the repo
+
+```sh
+    git clone https://github.com/tomaszkoltys/react-StyleHub.git
+```
+
+2. Navigate to your project directory
+
+```sh
+    cd react-StyleHub
+```
+
+3. Install dependencies
+
+```sh
+    npm install
+```
+
+## Usage
+
+To run the project locally, use below command
+
+```sh
+    npm run dev
+```
+
+## Gallery
+
+![home](https://i.imgur.com/i4POjib.png)
+![products](https://i.imgur.com/T7yBfQz.png)
+![about](https://i.imgur.com/I3OtgkE.png)
+![contact](https://i.imgur.com/rvH3zu7.png)
+![favourites](https://i.imgur.com/YTSt3ov.png)
+![cart](https://i.imgur.com/BKVcmsn.png)
 
 <!--links-->
 
